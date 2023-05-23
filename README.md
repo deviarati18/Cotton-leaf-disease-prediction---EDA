@@ -1,1 +1,1 @@
-# Cotton-leaf-disease-prediction---EDA
+# Cotton-leaf-disease-prediction
